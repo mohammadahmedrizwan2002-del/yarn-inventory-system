@@ -21,3 +21,4 @@ I come from a business background in the textile industry and want to create too
 Started learning GitHub & open source
 Working on backend feature ideas
 Added inventory tracker script
+Updated example usage for inventory tracker
