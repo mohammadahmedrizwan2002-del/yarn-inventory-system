@@ -18,3 +18,5 @@ This repository shows my early progress and my journey into software development
 
 **Why I built this:**  
 I come from a business background in the textile industry and want to create tools that solve real operational problems. This project is one step in building practical software solutions connected to real business needs.
+Started learning GitHub & open source
+ Working on backend feature ideas
